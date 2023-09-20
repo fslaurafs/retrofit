@@ -4,6 +4,7 @@
       color="#17DCD5"
       dark
       elevation="0"
+      fixed
     >
       <v-spacer v-show="!$vuetify.breakpoint.xsOnly"/>
       

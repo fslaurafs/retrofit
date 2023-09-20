@@ -1,6 +1,6 @@
 <template>
   <v-app>    
-    <Tools></Tools>
+    <Tools class="tools-margin-top"></Tools>
 
     <v-main class="rf-font-family">  
       <router-view/>
@@ -101,6 +101,10 @@ export default {
 
 .rf-checks-home {
   align-items: center;
+}
+
+.tools-margin-top {
+  margin-top: 50px;
 }
 
 @media only screen and (max-width: 800px) {

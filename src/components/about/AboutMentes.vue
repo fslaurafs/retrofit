@@ -183,7 +183,7 @@
               class="rounded-circle"
               contain
               max-width="200"
-              src="../../../static/mentes/leandro.png"
+              src="../../../static/mentes/leandro.jpeg"
             ></v-img>
           </div>
 
