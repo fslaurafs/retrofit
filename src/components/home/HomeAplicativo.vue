@@ -9,7 +9,7 @@
             </h2>
 
             <div class="my-6 pt-3 rf-subtitle">
-              Acompanhe sua evlução na palma da sua mão. Tudo o que você precisa para seus treinos em um único aplicativo.
+              Acompanhe sua evolução na palma da sua mão. Tudo o que você precisa para seus treinos em um único aplicativo.
             </div>
             <div class="mt-6 pt-6">
               <v-row 
@@ -64,7 +64,7 @@ export default {
         { text: "Vídeos educativos de exercícios" },
         { text: "Histórico completo de exercícios" },
         { text: "Siga outros atletas e treine junto" },
-        { text: "Interface simpes e objetiva" },
+        { text: "Interface simples e objetiva" },
         { text: "Planeje seus treinos, crie competições" },
       ]
     }

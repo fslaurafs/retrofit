@@ -67,7 +67,7 @@ export default {
           avatar: "https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortCurly&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=White&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Light", 
           user: "Persoal Isabela Isaac", 
           title: "Só a RetroFit tem!", 
-          desc: "Experincia incrível para o usuário e por um preço baixíssimo!", 
+          desc: "Experiência incrível para o usuário e por um preço baixíssimo!", 
           dia: "01/05/2023" 
         },
         { 
@@ -88,7 +88,7 @@ export default {
           avatar: "https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortCurly&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=White&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Light", 
           user: "Valdir Miranda", 
           title: "Ideia sensacional!", 
-          desc: "Já tentei ter frequência na academia mas eu sou competitivo e não tinha ninguém pra competir. Com esse App vou voltar a ser saudável!", 
+          desc: "Já tentei ter frequência na academia, mas eu sou competitivo e não tinha ninguém pra competir. Com esse App vou voltar a ser saudável!", 
           dia: "13/09/2023" 
         },
       ]

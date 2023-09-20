@@ -15,7 +15,7 @@
         </v-col>
 
         <v-col class="rf-containter-center">
-          <h4 class="rf-title-h4 text-center">Nos siga nas redes sociais:</h4>
+          <h4 class="rf-title-h4 text-center">Em breve nas redes sociais:</h4>
           
           <v-row class="my-3 mx-2">
             <div
@@ -23,7 +23,7 @@
               :key="'I' + i"
             >
               <v-btn
-                class="mx-2"
+                class="mx-1 my-1"
                 color="#F2F2F7"
                 fab
                 small
@@ -35,7 +35,7 @@
             </div>
           </v-row>
 
-          <h4 class="rf-title-h4 text-center mt-1 mb-n5"><b><span>@RetroFitApp</span></b></h4>
+          <h4 class="rf-title-h4 text-center mt-1 mb-n5"><b><span>@retrofitapp</span></b></h4>
         </v-col>
       </v-row>
 
